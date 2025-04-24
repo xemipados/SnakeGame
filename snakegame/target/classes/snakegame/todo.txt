@@ -1,0 +1,12 @@
+FATTO -cambia sfondo E BORDI (palette colori? #d0d058 #a0a840 #708028 #405010)
+FATTO -sistema dimensioni canvas e finestra (rettangolo?)
+FATTO -sposta il counter punteggio da sotto a sopra
+FATTO -incornicia il counter punteggio 
+FATTO -aggiungici qualche icona al counter punteggio?
+FATTO-aggiungi icona al programma
+FATTO -rimuovi finestra intorno al programma (rendi il bordo trasparente)
+FATTO -rendi più carino l'alert di game over 
+    -aggiungi 3 velocità differenti
+FATTO -rendi i bordi dell'area di gioco stondati?
+    -nell'alert di Game Over, aggiungi il tempo di gioco
+    - check dei bug
